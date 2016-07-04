@@ -17,6 +17,12 @@
       "description": "Immutable",
       "link": "https://facebook.github.io/immutable-js/docs/#/List/update",
       "keywords": "Immutable"
+    },
+    {
+      "topic": "Commit guidelines",
+      "description": "Angular commit guidelines",
+      "link": "https://github.com/angular/angular.js/blob/master/CONTRIBUTING.md",
+      "keywords": "Commit Guidelines"
     }
   ]
 }
