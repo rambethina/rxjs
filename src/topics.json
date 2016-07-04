@@ -11,6 +11,12 @@
       "description": "A Comprehensive Guide to Test-First Development with Redux, React, and Immutable",
       "link": "http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html",
       "keywords": "Redux Tutorial"
-    }
+    },
+    {
+      "topic": "Immutable",
+      "description": "Immutable",
+      "link": "https://facebook.github.io/immutable-js/docs/#/List/update",
+      "keywords": "Immutable"
+    },
   ]
 }
