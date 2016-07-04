@@ -1,0 +1,27 @@
+{
+  "name": "articles",
+  "version": "1.0.0",
+  "description": "List of articles",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rambethina/articles.git"
+  },
+  "keywords": [
+    "List",
+    "of",
+    "Articles"
+  ],
+  "author": "ram bethina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rambethina/articles/issues"
+  },
+  "homepage": "https://github.com/rambethina/articles#readme",
+  "dependencies": {
+    "unique-random-array": "^1.0.0"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "javascript" : [
+    {
+      "topic": "ES Lint",
+      "description": "ESLint is a tool for identifying and reporting on patterns found in ECMAScript/JavaScript code, with the goal of making code more consistent and avoiding bugs. In many ways, it is similar to JSLint and JSHint with a few exceptions:",
+      "link": "http://eslint.org/docs/user-guide/getting-started",
+      "keywords": "Java Script Code Review"
+    },
+    {
+      "topic": "Redux Tutorial",
+      "description": "A Comprehensive Guide to Test-First Development with Redux, React, and Immutable",
+      "link": "http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html",
+      "keywords": "Redux Tutorial"
+    }
+  ]
+}
