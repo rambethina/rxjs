@@ -1,6 +1,5 @@
 {
   "name": "ram-es6",
-  "version": "0.0.0-semantically-released",
   "description": "Experiment ES6 features",
   "main": "src/index.js",
   "scripts": {
