@@ -23,6 +23,12 @@
       "description": "Angular commit guidelines",
       "link": "https://github.com/angular/angular.js/blob/master/CONTRIBUTING.md",
       "keywords": "Commit Guidelines"
+    },
+    {
+      "topic": "Explore some native features instead of lodash",
+      "description": "Explore some native features instead of lodash",
+      "link": "http://blog.xebia.com/you-might-not-need-lodash-in-your-es2015-project/",
+      "keywords": "lodash"
     }
   ]
 }
