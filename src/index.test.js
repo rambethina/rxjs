@@ -1,12 +1,8 @@
-var expect = require('chai').expect;
+var assert = require('chai').assert;
 var starWars = require('./index');
 
 describe('all topics', function(){
   it('should list all', function(){
-    expect(starWars.all).to.satisfy(isArrayOfString);
-
-    function isArrayOfString(array){
-      return true;
-    }
+    assert.isDefined(starWars.all, 'returns an object');
   });
 });
