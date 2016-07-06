@@ -1,6 +1,6 @@
 import { assert } from 'chai';
-import starWars from './index';
-import { square, diag } from './feature_modules/lib';
+import starWars from '../src/index';
+import { square, diag } from '../src/feature_modules/lib';
 
 describe('all topics', function(){
   it('should list all', function(){
