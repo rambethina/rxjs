@@ -1,5 +1,5 @@
-var assert = require('chai').assert;
-var starWars = require('./index');
+import { assert } from 'chai';
+import starWars from './index';
 
 describe('all topics', function(){
   it('should list all', function(){
