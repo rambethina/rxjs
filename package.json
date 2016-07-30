@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rambethina/es6.git"
+    "url": "https://github.com/rambethina/rxjs"
   },
   "keywords": [
     "List",
@@ -29,9 +29,9 @@
   "author": "ram bethina",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rambethina/es6/issues"
+    "url": "https://github.com/rambethina/rxjs/issues"
   },
-  "homepage": "https://github.com/rambethina/es6#readme",
+  "homepage": "https://github.com/rambethina/rxjs#readme",
   "dependencies": {
     "lodash": "^4.13.1",
     "unique-random-array": "^1.0.0"
