@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # es6
 ES6 Features
 
@@ -7,3 +8,7 @@ ES6 Features
 # rxjs
 rxjs course
 >>>>>>> 579d43a5b53d1729abb613054ef6d9feb4815329
+=======
+# rxjs
+rxjs course
+>>>>>>> e168efe2da2d32aa308befd2eddb0051bcbbdc49
